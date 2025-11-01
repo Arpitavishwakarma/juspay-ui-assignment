@@ -1,6 +1,6 @@
 # Juspay UI Assignment 
 
-This is a minimal React + Tailwind project replicating the given Figma screen.
+This is a minimal React + Tailwind project.
 
 ## Setup
 npm install
